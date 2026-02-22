@@ -1,4 +1,4 @@
-## Hi there 👋
+$\color{#ADC5DF}{\textsf{Sleepy}}$ $\color{#6B73AC}{\textsf{Bunny}}$
 
 <!--
 **ihidebehindpeople/ihidebehindpeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
